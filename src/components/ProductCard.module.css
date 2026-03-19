@@ -1,0 +1,13 @@
+/* 
+    .container used both here and in App.jsx, 
+    but kept esparate by scope because of module.css 
+*/
+.container {
+  background-color: #fafafa;
+  color: #121212;
+  width: 18rem;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  margin: 0.7rem;
+  box-shadow: 5px 5px 5px darkgray;
+}
